@@ -1,6 +1,8 @@
 # ML-Supervised-Prediction-CoverTypes
 ## Background Problem
 This project aims to predict land cover types using the Roosevelt National Forest dataset, which includes environmental and topographic features. This prediction is crucial for conservation, forest management, and land planning. An accurate and interpretable classification model is built using various supervised machine learning algorithms such as Random Forest, KNN, Naive Bayes, Decision Tree, and Logistic Regression. The project includes stages of Preprocessing & EDA, modeling, and Model Evaluation.
+Dataset covtype from Kaggle
+(https://www.kaggle.com/datasets/uciml/forest-cover-type-dataset) 
 
 ## Libraries Version
 - Pandas version: 2.2.2
